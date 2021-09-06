@@ -1,6 +1,6 @@
 # atelierpaper
 
-Full stack <a href="testRel/myLib">website/</a> for an architecture firm in South Korea.
+Full stack <a href="https://atelierpaper.com">website</a> for an architecture firm in South Korea.
 
 ### Frontend
 Coded using React, Bootstap, and DOMPurify (uber-tolerant XSS sanitizer) to prevent XSS attacks.
