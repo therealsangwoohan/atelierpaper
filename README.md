@@ -6,6 +6,7 @@ Full stack <a href="https://atelierpaper.com">website</a> for an architecture fi
 
 ### Frontend
 Coded using React, Bootstap, and DOMPurify (uber-tolerant XSS sanitizer) to prevent XSS attacks.
+Used a responsive web design so the website will render beautifully on any devices.
 Deployed it on AWS S3. The firm is based in Seoul, but has clients from all around the world. 
 I used AWS CloudFront to optimize delivery speed by pushing the content to edge locations all around the globe.
 
