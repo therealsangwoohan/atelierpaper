@@ -1,6 +1,8 @@
 # atelierpaper
 
-Full stack <a href="https://atelierpaper.com">website</a> for an architecture firm in South Korea.
+Full stack <a href="https://atelierpaper.com">website</a> for an architecture firm in South Korea where:
+1) architects can log in to submit their projects.
+2) potential clients can explore and contact the architects they want to hire.
 
 ### Frontend
 Coded using React, Bootstap, and DOMPurify (uber-tolerant XSS sanitizer) to prevent XSS attacks.
