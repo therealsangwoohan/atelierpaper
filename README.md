@@ -1,6 +1,6 @@
 # atelierpaper
 
-Full stack website (https://atelierpaper.com/) for an architecture firm in South Korea.
+Full stack website (atelierpaper.com) for an architecture firm in South Korea.
 
 ### Frontend
 Coded using React, Bootstap, and DOMPurify (uber-tolerant XSS sanitizer) to prevent XSS attacks.
