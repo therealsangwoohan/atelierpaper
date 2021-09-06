@@ -10,6 +10,6 @@ Deployed it on AWS S3. The firm is based in Seoul, but has clients from all arou
 I used AWS CloudFront to optimize delivery speed by pushing the content to edge locations all around the globe.
 
 ### Backend
-Coded using Node.js and PostgreSQL.
+Coded using Node.js and PostgreSQL. Used cookie and session based authentification and authorization.
 Deployed it on AWS EC2. Since the website have many users, I created multiple EC2 instances with a load balancer to optimize speed.
 I used AWS CloudFront to push /api/* requests to the load balancer.
